@@ -1,4 +1,4 @@
-FROM cypress/base:6
+FROM cypress/base:8
 
 ARG FIREFOX_VERSION=57.0.2
 
